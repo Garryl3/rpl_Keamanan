@@ -1,0 +1,5 @@
+.env
+.dart_tool/
+.pub-cache/
+.pub/
+build/
